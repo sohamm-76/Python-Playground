@@ -1,2 +1,2 @@
 # Python-Playground
-Daily pyhton programming practice
+Daily python programming practice
