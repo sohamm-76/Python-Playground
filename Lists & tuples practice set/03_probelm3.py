@@ -1,0 +1,5 @@
+# Check that a tuple type cannot be changed in python.
+
+a = (34, 234, "Harry")
+
+a = (a[0], a[1], "Larry")
